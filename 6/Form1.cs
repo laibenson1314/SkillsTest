@@ -38,7 +38,7 @@ namespace _6
                     error = "FORMAT ERROR";
 
                 // 判斷性別
-                if (((id[1] == 1 ? "M" : "F") != sex) && string.IsNullOrEmpty(error))
+                if (((id[1] == '1' ? "M" : "F") != sex) && string.IsNullOrEmpty(error))
                     error = "SEX CODE ERROR";
 
                 // 最麻煩的判斷 (有問題再問我)
