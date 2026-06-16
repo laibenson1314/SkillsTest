@@ -1,0 +1,10 @@
+C:\Projects\Others\SkillCheck\8\bin\Debug\8.exe.config
+C:\Projects\Others\SkillCheck\8\bin\Debug\8.exe
+C:\Projects\Others\SkillCheck\8\bin\Debug\8.pdb
+C:\Projects\Others\SkillCheck\8\obj\Debug\8.csproj.AssemblyReference.cache
+C:\Projects\Others\SkillCheck\8\obj\Debug\_8.Form1.resources
+C:\Projects\Others\SkillCheck\8\obj\Debug\_8.Properties.Resources.resources
+C:\Projects\Others\SkillCheck\8\obj\Debug\8.csproj.GenerateResource.cache
+C:\Projects\Others\SkillCheck\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+C:\Projects\Others\SkillCheck\8\obj\Debug\8.exe
+C:\Projects\Others\SkillCheck\8\obj\Debug\8.pdb
