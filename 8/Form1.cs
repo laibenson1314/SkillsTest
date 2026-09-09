@@ -44,7 +44,7 @@ namespace _8
                 dataGridView1.Rows.Add(
                     $"{b}/{a}",
                     op,
-                    $"{x}/{y}",
+                    $"{y}/{x}",
                     up == down ? "1" :
                         down == 0 || up == 0 ? "0" :
                         $"{up / gcd}/{down / gcd}"
